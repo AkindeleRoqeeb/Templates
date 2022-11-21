@@ -3,4 +3,4 @@ Simple template.
 
 Html and Css complete..
 
-No javascript()
+No javascript(js)
